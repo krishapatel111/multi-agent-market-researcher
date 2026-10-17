@@ -1,0 +1,6 @@
+venv/
+.venv/
+.env
+__pycache__/
+*.pyc
+market_research_report.md
